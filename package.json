@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ogolipe/PIMod5-Facilitando_o_dia_a_dia#readme",
   "dependencies": {
+    "chalk": "^5.2.0",
     "readline-sync": "^1.4.10"
   }
 }
