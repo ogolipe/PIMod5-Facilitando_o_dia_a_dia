@@ -1,0 +1,22 @@
+{
+  "name": "pimod5-facilitando_o_dia_a_dia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogolipe/PIMod5-Facilitando_o_dia_a_dia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogolipe/PIMod5-Facilitando_o_dia_a_dia/issues"
+  },
+  "homepage": "https://github.com/ogolipe/PIMod5-Facilitando_o_dia_a_dia#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
